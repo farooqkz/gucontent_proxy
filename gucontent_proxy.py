@@ -26,9 +26,6 @@ import gzip
 
 PORT = 5433
 
-def lasttimeactive():
-    return 2 # user was active 23 minutes ago
-
 class sockthread(threading.Thread):
     def __init__(self, csock):
         threading.Thread.__init__(self)
