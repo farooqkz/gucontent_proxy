@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Copyright (C) 2017 Farooq Karimi Zadeh <farooghkz at ompbx dot org>
+# Copyright (C) 2017 Farooq Karimi Zadeh <fkz@riseup.net>
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
